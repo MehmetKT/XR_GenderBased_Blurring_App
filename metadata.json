@@ -1,0 +1,6 @@
+{
+  "name": "Street Privacy Lens",
+  "description": "Real-time XR camera lens that detects and blurs people walking on the street by gender for privacy while keeping the background crystal clear.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
